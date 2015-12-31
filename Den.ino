@@ -1,3 +1,4 @@
+//  THIS COMMMENT IS TEMPERARY, DON'T FORGET TO DELETE IT!!!
 #define DEN_PIN   6
 #define BED_PIN   8
 
